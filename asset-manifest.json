@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shivamani21/sam/static/css/main.f855e6bc.css",
+    "main.js": "/shivamani21/sam/static/js/main.b19caecd.js",
+    "static/js/453.4487d271.chunk.js": "/shivamani21/sam/static/js/453.4487d271.chunk.js",
+    "index.html": "/shivamani21/sam/index.html",
+    "main.f855e6bc.css.map": "/shivamani21/sam/static/css/main.f855e6bc.css.map",
+    "main.b19caecd.js.map": "/shivamani21/sam/static/js/main.b19caecd.js.map",
+    "453.4487d271.chunk.js.map": "/shivamani21/sam/static/js/453.4487d271.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b19caecd.js"
+  ]
+}
